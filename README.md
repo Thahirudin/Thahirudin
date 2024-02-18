@@ -24,3 +24,6 @@ I am a undergraduate student at Universitas Muhammadiyah Riau, specializing in w
 ### Reach me on
 - <a href="https://linkedin.com/in/thahirudin/">LinkedIn</a>
 - thahirudin@gmail.com
+
+### Total Profile Visit: since 18 Februari 2024
+<img alingn="center" src="https://profile-counter.glitch.me/Thahirudin/count.svg"/>
