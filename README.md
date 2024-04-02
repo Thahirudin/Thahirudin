@@ -15,7 +15,7 @@ I am a undergraduate student at Universitas Muhammadiyah Riau, specializing in w
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/thahirudin">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thahirudin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thahirudin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
