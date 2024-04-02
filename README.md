@@ -23,4 +23,4 @@ I am a undergraduate student at Universitas Muhammadiyah Riau, specializing in w
 
 ### Reach me on
 - <a href="https://linkedin.com/in/thahirudin/">LinkedIn</a>
-- thahirudin@gmail.com
+- tohiruzain098gmail.com
